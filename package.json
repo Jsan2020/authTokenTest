@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "contentful-export": "^7.10.7",
+    "contentful-import": "^7.9.11",
+    "contentful-migration": "^2.0.6"
+  }
+}

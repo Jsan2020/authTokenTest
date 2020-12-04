@@ -1,0 +1,14 @@
+{
+  "env":                    "staging",
+  "contentfulEnv":          "staging",
+  "wpApiUrl" :              "https://blog.sprinklr.com/wp-json/wp/v2/posts",
+  "savedJsonFileName":      "./contentful/import/importedBlogPostsFromWP.json",
+  "mappedFileName":         "./contentful/exports/blogPostsMapped.json",
+  "savedExportFileName":    "./contentful/exports/exportedBlogNodes.json",
+  "spaceId":                "6zgqw75l3s8l",
+  "accessToken":            "y1Io3oST-2d3CkTYV5dUUDa4d4dHSGPGiM243GXrtZs",
+  "skipContentModel":       true,
+  "skipContentPublishing":  false,
+  "update":                 false,
+  "errorLogFile":           "./log/errors/import-errors.json"
+}
